@@ -1,0 +1,22 @@
+
+body{
+  font-size:  16 px;
+  background-color: beige;
+  margin: 0;
+}
+header{
+  background-color: burlywood;
+  padding: 4rem;
+}
+
+
+header h1{
+  font-size: 4rem;
+  text-align: center;
+}
+
+.container {
+  width: 400;
+  margin: 0a;
+  text-align: center;
+}
